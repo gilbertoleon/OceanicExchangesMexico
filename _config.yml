@@ -22,8 +22,12 @@ description: A virtual proof that name is awesome!
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-#navbar-links:
-#  About Me: "aboutme"
+navbar-links:
+  Acerca: "acerca"
+  Equipo: "equipo"
+  Noticias: "noticias"
+  Resultados: "resultados"
+  Contacto: "contacto"  
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
