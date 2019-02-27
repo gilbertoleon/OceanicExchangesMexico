@@ -12,7 +12,7 @@ subtitle: Quiénes somos, qué hacemos
 - Mtra. Rocío Castellanos Rueda, UNAM- Investigadora del proyecto
 - Mtro. Adan Israel Lerma Mayer, UNAM- Investigador del proyecto
 - Mtro. Gilberto Leon Martagón, UAM-Cuajimalpa- Desarrollo de visualizaciones
-- Marco Godínez Bustos - FFyL-UNAM Desarrollo de aplicaciones
+- Marco Godínez Bustos - FFyL-UNAM- Desarrollo de aplicaciones
 - Lic. Fabiola Delfín Martínez, UCSJ- Becaria
 - Laura Angélica López Méndez, UNAM  Becaria
 
