@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca del proyecto
-subtitle: Todo lo que querías saber pero nunca te animaste a preguntar
+
 ---
 # Intercambios oceánicos: Trazando redes de información global en repoitorios de periódicos históricos, 1840-1914
 
