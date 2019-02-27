@@ -1,7 +1,7 @@
 ---
 layout: page
 title: El equipo
-subtitle: Quienes somos, que hacemos
+subtitle: Quiénes somos, qué hacemos
 ---
 - Isabel Galina Russell, IIB-UNAM
 - Ernesto Priani Saisó, FFyL_UNAM
