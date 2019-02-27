@@ -3,16 +3,16 @@ layout: page
 title: El equipo
 subtitle: Quiénes somos, qué hacemos
 ---
-- Isabel Galina Russell, IIB-UNAM
-- Ernesto Priani Saisó, FFyL_UNAM
-- Miriam Peña Pimentel, IIB-UNAM
-- Adan Israel Lerma Mayer, UNAM
-- Rocío Castellanos Rueda, UNAM
-- Laura Angélica López Méndez, UNAM
-- Juan Manuel Rodríguez Martínez, UNAM
-- Ximena Gutiérrez Vásques, IIMAS-UNAM
-- Iván Vladimir Meza Ruiz, IIMAS-UNAM
-- Fabiola Delfín Martínez, UCSJ
-- Gilberto Leon Martagón, UAM-Cuajimalpa
-- Laura Martínez Domínguez- FFyL-UNAM
-- Marco Godínez Bustos - FFyL-UNAM
+- Dra. Isabel Galina Russell, IIB-UNAM- Investigadora principal del proyecto
+- Dr. Ernesto Priani Saisó, FFyL_UNAM- Investigador principal del proyecto
+- Dra. Miriam Peña Pimentel, IIB-UNAM- Investigadora del proyecto
+- Dr. Iván Vladimir Meza Ruiz, IIMAS-UNAM- Investigador del proyecto
+- Dra. Laura Martínez Domínguez,  FFyL-UNAM- Investigadora del proyecto
+- Dra. Ximena Gutiérrez Vásques, IIMAS-UNAM- Investigadora del proyecto
+- Mtra. Rocío Castellanos Rueda, UNAM- Investigadora del proyecto
+- Mtro. Adan Israel Lerma Mayer, UNAM- Investigador del proyecto
+- Mtro. Gilberto Leon Martagón, UAM-Cuajimalpa- Desarrollo de visualizaciones
+- Marco Godínez Bustos - FFyL-UNAM Desarrollo de aplicaciones
+- Lic. Fabiola Delfín Martínez, UCSJ- Becaria
+- Laura Angélica López Méndez, UNAM  Becaria
+
