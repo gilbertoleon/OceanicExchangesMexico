@@ -3,7 +3,7 @@ layout: page
 title: Noticias
 
 ---
-# Introducción a herramientas para el análisis de acervos digitalizados
+# Taller: Introducción a herramientas para el análisis de acervos digitalizados
 
 
 28 y 29 de marzo de 2019
