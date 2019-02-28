@@ -3,7 +3,7 @@ layout: page
 title: Acerca del proyecto
 
 ---
-# Intercambios oceánicos: Trazando redes de información global en repoitorios de periódicos históricos, 1840-1914
+# Intercambios oceánicos: Trazando redes de información global en repositorios de periódicos históricos, 1840-1914
 
 Este proyecto está financiado por Conacyt (FONCICYT 274861) a través de la convocatoria de *Transatlantic Partnership for Social Sciences and Humanities 2016 Digging Into Data Challenge*
 
