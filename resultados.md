@@ -3,4 +3,4 @@ layout: page
 title: Resultados
 
 ---
-!(gilbertoleon/OceanicExchangesMexico/img/mapacable.jpeg)
+![Mapa del cable transatlántico ca. 1890](Oceanicexchanges/im/mapacable.png "Mapa del cable trasatlántico ca. 1890")
