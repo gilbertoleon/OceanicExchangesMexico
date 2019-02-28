@@ -3,4 +3,4 @@ layout: page
 title: Resultados
 
 ---
-![mapa](github.com/gilbertoleon/OceanicExchangesMexico/blob/master/OceanicExchangesMexico/img/mapacable.jpeg)
+![mapa](github.com/gilbertoleon/OceanicExchangesMexico/img/mapacable.jpeg)
