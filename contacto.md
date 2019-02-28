@@ -7,4 +7,4 @@ Intercambios Oceánicos (<intercambiosoceanicos@gmail.com>)
 
 *Este correo es para consultas generales acerca del proyecto. Si desea dirigirse directamente a alguno de los investigadores, indíquelo en el "subject"*
 
-! [Mapa del cable] (img/mapacable.jpeg "Mapa del cable")
+! [Mapa del cable] (OceanicExchangesMexico/img/mapacable.jpeg "Mapa del cable")
