@@ -33,7 +33,7 @@ google-plus:
 
 email:
   name: "Email me"
-  baseURL: "mailto:intercambiosoceanicos@gmail.com/"
+  baseURL: "mailto:intercambiosoceanicos@gmail.com"
   icon: "fa-envelope"
 
 linkedin:
